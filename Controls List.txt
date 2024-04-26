@@ -1,0 +1,21 @@
+Controls List
+
+Interactions
+
+To use any button on the menus simply click on the required icon
+
+Camera
+
+Camera movement is done using the mouse or trackpad
+Zoom in and out using the scroll wheel
+Change camera angle by pressing Z
+
+Putting
+
+Putting is done by holding down left click.
+Release left click to putt the ball.
+To cancel putting, continue to hold left click until the power bar resets.
+
+Pausing
+
+To pause the game press the "Escape" key
